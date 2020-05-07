@@ -10,7 +10,7 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 This repo contains the source code of the bikeshare rental project that will be used throughout the course.
 
 ### Importing essential packages
-'import time'
+import time 
 import pandas as pd
 import numpy as np
 import json
