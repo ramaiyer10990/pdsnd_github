@@ -19,9 +19,9 @@ Create an input_utilites file for importing get_user_input
 ```
 
 ### Checklists
-- [ ]Handle the user input as not in a case sensitive way using lower()
-- [ ]Display the raw data. 
-- [ ]Check for the boundary conditions like i+5 is less than the length(df)
+- Handle the user input as not in a case sensitive way using lower()
+- Display the raw data. 
+- Check for the boundary conditions like i+5 is less than the length(df)
 
 ### Files used
 ```
