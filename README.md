@@ -10,10 +10,10 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 This repo contains the source code of the bikeshare rental project that will be used throughout the course.
 
 ### Files used
-new_york_city.csv
-washington.csv
-chicago.csv
-bikeshare.py
+new_york_city.csv;
+washington.csv;
+chicago.csv;
+bikeshare.py;
 input utilities.py
 
 ### Credits
