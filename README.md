@@ -27,7 +27,7 @@ chicago.csv;
 bikeshare.py;
 input utilities.py
 
-### Issues
+### Issues and fixes
 Every key variable like trip duration status, station, gender, birth date,  should de defined correctly for the code to display data for all three cities.
 
 ### Credits
