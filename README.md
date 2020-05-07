@@ -9,6 +9,16 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 
 This repo contains the source code of the bikeshare rental project that will be used throughout the course.
 
+### Importing essential packages
+import time
+import pandas as pd
+import numpy as np
+import json
+
+### Checklists
+Handle the user input as not in a case sensitive way using lower()
+Display the raw data. It would be nice to check for the boundary conditions like i+5 is less than the length(df)
+
 ### Files used
 new_york_city.csv;
 washington.csv;
