@@ -28,11 +28,11 @@ new_york_city.csv;
 washington.csv;
 chicago.csv;
 bikeshare.py;
-input utilities.py
+input_utilities.py
 ```
 
 ### Issues and fixes
 Every key variable like trip duration status, station, gender, birth date,  should de defined correctly for the code to display data for all three cities.
 
 ### Credits
-Udacity: Data Science programming using Python
+Data Science programming using Python
