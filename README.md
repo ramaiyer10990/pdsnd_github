@@ -10,22 +10,26 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 This repo contains the source code of the bikeshare rental project that will be used throughout the course.
 
 ### Importing essential packages
+```
 import time 
 import pandas as pd
 import numpy as np
 import json
 Create an input_utilites file for importing get_user_input
+```
 
 ### Checklists
 Handle the user input as not in a case sensitive way using lower()
 Display the raw data. It would be nice to check for the boundary conditions like i+5 is less than the length(df)
 
 ### Files used
+```
 new_york_city.csv;
 washington.csv;
 chicago.csv;
 bikeshare.py;
 input utilities.py
+```
 
 ### Issues and fixes
 Every key variable like trip duration status, station, gender, birth date,  should de defined correctly for the code to display data for all three cities.
